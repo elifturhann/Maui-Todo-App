@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/ElifSevvalTurhan/Desktop/LifeManagementApp/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/ElifSevvalTurhan/Desktop/LifeManagementApp/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/LifeManagementApp.app
